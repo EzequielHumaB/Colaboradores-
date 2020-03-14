@@ -8,5 +8,6 @@ namespace Colaborador.Menores
     public class Menor_10Años
     {
         //klok manin
+        //haciendo un confligto
     }
 }
