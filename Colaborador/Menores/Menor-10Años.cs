@@ -7,8 +7,8 @@ namespace Colaborador.Menores
 {
     public class Menor_10Años
     {
-        //klok manin
+        //Adio Chula
         public int IdMenor { get; set; }
-        //haciendo un confligto
+        public string NombreMenor { get; set; }
     }
 }
