@@ -10,5 +10,7 @@ namespace Colaborador.Menores
         //klok manin
         public int IdMenor { get; set; }
         //haciendo un confligto
+
+        public int EdadMenor { get; set; }
     }
 }
